@@ -1,11 +1,12 @@
 {
   "collections": [
-    "Please enter your Collection ID"
+    "7xDs5UeeaaHY2jb6QAmDAYKmXHUkY3PgUkvsjTgP96hR",
+    "5ox2YnANyZysv6rDagB1WS2zzUsNPs4543kRD3xSATi4"
   ],
-  "xApiKey": "Please enter your API Key",
-  "serviceFee": "Please enter your service fee (Recommended 4.25)",
-  "currencyOption": "Please enter your payment token",
-  "name": "Please enter your storefront name",
-  "logo": "Please enter your logo image URL",
-  "network": "Please enter your selected network "
+  "network": "devnet",
+  "xApiKey": "mw_HDKs7x6xyMipNiO2Ev4KCm8jF2CjPUxjfzv",
+  "serviceFee": 0.5,
+  "currencyOption": "USDC",
+  "name": "Cryptoians BD",
+  "logo": "https://collections.mirrorworld.fun/1677249517296-2.png"
 }
